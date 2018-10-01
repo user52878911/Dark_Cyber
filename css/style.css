@@ -72,3 +72,16 @@ body{
 #hellosmall{
 	text-align: center;
 }
+.rightext{
+	text-align: right;
+}
+.text-normal{
+	text-align: left;
+	align-items: left;
+}
+.mt-10{
+	margin-top: 20px;
+}
+.mb-30{
+	margin-bottom: 30px;
+}
